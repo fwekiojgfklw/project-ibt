@@ -1,0 +1,77 @@
+{
+    "code": "en",
+    "title": "Live map - Sofia Traffic",
+    "languages": {
+        "bg": "Bulgarian (Български)",
+        "en": "English (Английски)"
+    },
+    "sidebar": {
+        "title": "Live map",
+        "map": "Map",
+        "settings": "Settings",
+        "about": "About the site",
+        "siteNotice": "The site is a personal hobby project and is not officially affiliated with Sofia Urban Mobility Center in any way.",
+        "credits": "Made by BPilot253"
+    },
+    "searchForVehicle": "Search for a vehicle:",
+    "vehicleTypes": {
+        "all": "All types",
+        "bus": "Bus",
+        "night": "Bus",
+        "tram": "Tram",
+        "trolley": "Trolleybus",
+        "unknown": "Unknown model"
+    },
+    "vehicleNumber": "Vehicle No.",
+    "settingCategories": {
+        "vehicleMarkers": "Vehicle markers",
+        "language": "Language"
+    },
+    "settings": {
+        "simpleMarkers": "Simple look (without line and direction)",
+        "noCircleMarkers": "Do not minify markers (will slow down the map)"
+    },
+    "vehicle": {
+        "line": "Line",
+        "lowercaseLine": "line",
+        "noLine": "No line",
+        "copyLink": "Copy vehicle link"
+    },
+    "search": "Search",
+    "min": "min",
+    "lines": "Lines",
+    "vehicles": "Vehicles",
+    "stops": "Stops",
+    "noArrivals": "No more arrivals for the day.",
+    "filtering": "Filtering",
+    "errors": {
+        "getLocation": "Error getting location.",
+        "noLocation": "Location not available."
+    },
+    "searchInfo": {
+        "howToUse": "How to use the search?",
+        "lines": {
+            "title": "Searching for lines",
+            "description": "Search using the line number."
+        },
+        "vehicles": {
+            "title": "Searching for vehicles",
+            "description": "Search by line, model or fleet number."
+        },
+        "stops": {
+            "title": "Searching for stops",
+            "description": "Search using the stop name or code."
+        }
+    },
+    "about": {
+        "description1": "I am BPilot253 and I created this site absolutely free of charge as a personal hobby project. It is not officially affiliated with Sofia Urban Mobility Center in any way.",
+        "description2": "The site allows you to track all public transport vehicles in Sofia, their routes and next arrivals at the stops.",
+        "description3": "For feedback and suggestions you can post in the forum thread.",
+        "forumTopic": "Thread in the GT Sofia forum"
+    },
+    "actions": {
+        "acknowledge": "Understood",
+        "okay": "Okay",
+        "close": "Close"
+    }
+}

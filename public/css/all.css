@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    font-family: "Sofia Sans", sans-serif !important;
+}
+
+body {
+    overscroll-behavior:none;
+    touch-action:none;
+}
+
+strong {
+    font-weight: 800 !important;
+}
+
+a {
+    color: #0078A8;
+    text-decoration: none !important;
+}
+
+a:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+/* *:not(#map *) select:not(#map *), input:not(#map *):not(.settings *):not(.modal-container *) {
+    font-size: 15px;
+    height: 30px;
+    padding: 5px;
+    margin: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+} */
